@@ -1,7 +1,7 @@
 <img src="assets/banner.svg" alt="Muhammad Hamza - Full Stack and App Developer" width="100%"/>
 
 <p align="center">
-  <a href="https://hamzaharoon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-fbbf24?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=111827"/></a>
+  <a href="https://hamzaharoon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hamzaharoon.vercel.app-fbbf24?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=111827"/></a>
   <a href="https://www.linkedin.com/in/muhammad-hamza-kodwavi-91532b281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.fiverr.com/hamzaharoon1207"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://www.instagram.com/hamzaclicks12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
