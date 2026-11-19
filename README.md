@@ -1,12 +1,50 @@
-## Hi, I'm Hamza
+<br>
 
-I'm a developer from Karachi. I build websites and Android apps, mostly for small businesses and my own ideas.
+<h1 align="center">hamza ✦</h1>
 
-Right now I'm working on:
-- an online store I redesigned and run ([shopxtra.store](https://shopxtra.store))
-- a student budget app, web and native Android ([campuscoin](https://github.com/hamzaharoonk07-cloud/campuscoin))
-- Wear OS watch faces, a few of them are on Google Play
+<p align="center"><sub>developer · karachi, pakistan</sub></p>
 
-I mostly write JavaScript (React, Node, MongoDB), PHP and Kotlin.
+<br>
 
-I'm looking for freelance or remote work. The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-kodwavi-91532b281/). My portfolio is at [hamzaharoon.vercel.app](https://hamzaharoon.vercel.app) and I take small jobs on [Fiverr](https://www.fiverr.com/hamzaharoon1207).
+<p align="center">
+  i build websites and android apps,<br>
+  and tiny watch faces that live on your wrist.
+</p>
+
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><sub><b>CURRENTLY</b></sub></p>
+
+<p align="center">
+  redesigning and running an online store<br>
+  <sub><a href="https://shopxtra.store">shopxtra.store</a></sub>
+  <br><br>
+  a student budget app, web + native android<br>
+  <sub><a href="https://github.com/hamzaharoonk07-cloud/campuscoin">campuscoin</a></sub>
+  <br><br>
+  wear os watch faces on google play<br>
+  <sub>kotlin · watch face format</sub>
+</p>
+
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><sub><b>MADE WITH</b></sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,php,mysql,kotlin,androidstudio,figma,git&theme=dark&perline=9"/>
+</p>
+
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center"><sub><b>SAY HI</b></sub></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-hamza-kodwavi-91532b281/">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://hamzaharoon.vercel.app">portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.fiverr.com/hamzaharoon1207">fiverr</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/hamzaclicks12">instagram</a>
+</p>
+
+<p align="center"><sub>open to freelance + remote work ✦</sub></p>
+
+<br>
