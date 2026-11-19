@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#aaff3c"/><stop offset="1" stop-color="#3cffb0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#30363d"/>
+  <circle cx="34" cy="32" r="7" fill="#ff5f56"/><circle cx="58" cy="32" r="7" fill="#ffbd2e"/><circle cx="82" cy="32" r="7" fill="#27c93f"/>
+  <text x="110" y="37" font-family="Consolas,Menlo,monospace" font-size="14" fill="#8b949e">hamza.ts</text>
+  <g font-family="Consolas,Menlo,monospace" font-size="26">
+    <text x="60" y="112" fill="#ff7b72">const <tspan fill="#79c0ff">hamza</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
+    <text x="100" y="156" fill="#c9d1d9">role: <tspan fill="#a5d6ff">"Website &amp; App Developer"</tspan>,</text>
+    <text x="100" y="196" fill="#c9d1d9">stack: <tspan fill="#a5d6ff">["MERN", "Kotlin", "Wear OS"]</tspan>,</text>
+    <text x="100" y="236" fill="#c9d1d9">base: <tspan fill="#a5d6ff">"Karachi, PK"</tspan>,</text>
+    <text x="100" y="276" fill="#c9d1d9">status: <tspan fill="url(#ac)" font-weight="700">"open to work"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    <text x="60" y="306" fill="#c9d1d9">};</text>
+  </g>
+  <text x="1140" y="200" text-anchor="end" font-family="Poppins,Segoe UI,Arial,sans-serif" font-weight="800" font-size="92" fill="url(#ac)">Hamza</text>
+  <text x="1140" y="250" text-anchor="end" font-family="Poppins,Segoe UI,Arial,sans-serif" font-weight="500" font-size="30" fill="#8b949e">builds things that ship.</text>
+</svg>
