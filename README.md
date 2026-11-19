@@ -1,4 +1,4 @@
-<img src="assets/header.png" alt="Muhammad Hamza" width="100%"/>
+<img src="assets/intro.gif" alt="Muhammad Hamza" width="100%"/>
 
 <p align="center">
   <a href="https://hamzaharoon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-fbbf24?style=for-the-badge&logo=vercel&logoColor=black"/></a>
