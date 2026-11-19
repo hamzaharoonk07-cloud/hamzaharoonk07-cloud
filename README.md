@@ -1,4 +1,5 @@
-<img src="assets/banner.svg" alt="Muhammad Hamza - Full Stack and App Developer" width="100%"/>
+<h1 align="center">Muhammad Hamza</h1>
+<p align="center">Full Stack Web &amp; Mobile App Developer · Karachi, Pakistan</p>
 
 <p align="center">
   <a href="https://hamzaharoon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hamzaharoon.vercel.app-fbbf24?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=111827"/></a>
