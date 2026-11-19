@@ -1,8 +1,4 @@
-<img src="assets/header.svg" alt="Muhammad Hamza" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=Building+web+apps+that+ship;Android+%2B+Wear+OS+apps+on+Google+Play;React+%C2%B7+Node+%C2%B7+MongoDB+%C2%B7+Kotlin;Open+to+freelance+%26+remote+work"/>
-</p>
+<img src="assets/header.png" alt="Muhammad Hamza" width="100%"/>
 
 <p align="center">
   <a href="https://hamzaharoon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-fbbf24?style=for-the-badge&logo=vercel&logoColor=black"/></a>
