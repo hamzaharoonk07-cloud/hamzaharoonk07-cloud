@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:fbbf24,50:f97316,100:db2777&text=Muhammad%20Hamza&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full%20Stack%20%26%20App%20Developer&descSize=22&descAlignY=60&animation=fadeIn"/>
-</p>
+<img src="assets/header.svg" alt="Muhammad Hamza" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=Building+web+apps+that+ship;Android+%2B+Wear+OS+apps+on+Google+Play;React+%C2%B7+Node+%C2%B7+MongoDB+%C2%B7+Kotlin;Open+to+freelance+%26+remote+work"/>
@@ -12,8 +10,6 @@
   <a href="https://www.fiverr.com/hamzaharoon1207"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://www.instagram.com/hamzaclicks12"><img src="https://img.shields.io/badge/Instagram-db2777?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
-<a href="https://hamzaharoon.vercel.app"><img src="assets/portfolio.png" alt="My portfolio" width="100%"/></a>
 
 ### About me
 
@@ -46,6 +42,4 @@ I'm a developer from Karachi. I build websites, stores and Android apps, and I p
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaharoonk07-cloud&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:db2777,50:f97316,100:fbbf24&section=footer"/>
-</p>
+
