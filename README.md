@@ -13,7 +13,7 @@
 <tr>
 <td width="33%" valign="top">
 <b>&#9656; Who</b><br>
-Website and app developer from Karachi. I design the interface, then build it end to end, from database to deploy.
+Website and app developer, graphic designer and video editor from Karachi. I design the interface, then build it end to end, from database to deploy.
 </td>
 <td width="33%" valign="top">
 <b>&#9656; Now</b><br>
