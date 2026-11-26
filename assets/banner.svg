@@ -33,7 +33,7 @@
 </g>
 <g style="animation:rise 1s ease-out both">
   <circle cx="166" cy="142" r="5" fill="#57e3a0" style="animation:blink 1.4s steps(1) infinite"/>
-  <text x="182" y="147" class="kick">OPEN FOR FREELANCE &amp; REMOTE WORK</text>
+  <text x="182" y="147" class="kick">OPEN TO ROLES &amp; PROJECTS</text>
   <text x="158" y="222" class="name" filter="url(#glow)">HAMZA HAROON</text>
 </g>
 <text x="162" y="266" class="role" opacity="0">Website &amp; App Developer<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" keyTimes="0.000;0.020;0.230;0.250;1.000" values="0;1;1;0;0"/></text><text x="162" y="266" class="role" opacity="0">MERN · React · Node · MongoDB<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" keyTimes="0.000;0.250;0.270;0.480;0.500;1.000" values="0;0;1;1;0;0"/></text><text x="162" y="266" class="role" opacity="0">Android · Kotlin · Jetpack Compose<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" keyTimes="0.000;0.500;0.520;0.730;0.750;1.000" values="0;0;1;1;0;0"/></text><text x="162" y="266" class="role" opacity="0">Wear OS watch faces on Google Play<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" keyTimes="0.000;0.750;0.770;0.980;1.000" values="0;0;1;1;0"/></text>
