@@ -35,53 +35,18 @@ Freelance client sites and apps on Fiverr, my own live store ShopXtra, and Wear 
 
 <img src="assets/h-work.svg" width="100%"/>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-<a href="https://careerpassporttw.vercel.app/"><img src="assets/shot-pathseeker.jpg" width="100%"/></a>
-<b><a href="https://careerpassporttw.vercel.app/">PathSeeker</a></b> &nbsp;<sub>MERN</sub><br>
-Ten honest questions matched against 38 real careers, staged as a boarding pass journey.
-</td>
-<td width="50%" valign="top">
-<a href="https://www.shopxtra.store/"><img src="assets/shot-shopxtra.jpg" width="100%"/></a>
-<b><a href="https://www.shopxtra.store/">ShopXtra</a></b> &nbsp;<sub>Live store</sub><br>
-A working organic grocery shop on its own domain, with promo codes and cash on delivery.
-</td>
+<td align="center" width="25%"><a href="https://careerpassporttw.vercel.app/"><img src="assets/logo-pathseeker.png" width="150" alt="PathSeeker"/></a><br><sub><b>PathSeeker</b></sub></td>
+<td align="center" width="25%"><a href="https://www.shopxtra.store/"><img src="assets/logo-shopxtra.png" width="150" alt="ShopXtra"/></a><br><sub><b>ShopXtra</b></sub></td>
+<td align="center" width="25%"><a href="https://furshiel.vercel.app/"><img src="assets/logo-furshield.png" width="150" alt="FurShield"/></a><br><sub><b>FurShield</b></sub></td>
+<td align="center" width="25%"><a href="https://physiosync-pk.vercel.app/"><img src="assets/logo-physiosync.png" width="150" alt="PhysioSync"/></a><br><sub><b>PhysioSync</b></sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://furshiel.vercel.app/"><img src="assets/shot-furshield.jpg" width="100%"/></a>
-<b><a href="https://furshiel.vercel.app/">FurShield</a></b> &nbsp;<sub>MERN · JWT</sub><br>
-One platform for pet owners, vets and shelters, with health timelines and adoption listings.
-</td>
-<td width="50%" valign="top">
-<a href="https://physiosync-pk.vercel.app/"><img src="assets/shot-physiosync.jpg" width="100%"/></a>
-<b><a href="https://physiosync-pk.vercel.app/">PhysioSync</a></b> &nbsp;<sub>3D · GSAP</sub><br>
-Pick a region on a 3D body model and it maps the pain to conditions and exercises.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://campuscoin-sable.vercel.app/"><img src="assets/shot-campuscoin.jpg" width="100%"/></a>
-<b><a href="https://campuscoin-sable.vercel.app/">Campus Coin</a></b> &nbsp;<sub>MERN</sub><br>
-A budget tracker for students on allowance, with CSV import, charts and budget alerts.
-</td>
-<td width="50%" valign="top">
-<a href="https://care-pk.infinityfreeapp.com/"><img src="assets/shot-care.jpg" width="100%"/></a>
-<b><a href="https://care-pk.infinityfreeapp.com/">CARE Group</a></b> &nbsp;<sub>PHP · MySQL</sub><br>
-A three role doctor appointment portal with live availability grids.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://zaikaekarachi.vercel.app/"><img src="assets/shot-zaika.jpg" width="100%"/></a>
-<b><a href="https://zaikaekarachi.vercel.app/">Zaika-e-Karachi</a></b> &nbsp;<sub>GSAP · English &amp; Urdu</sub><br>
-A scroll told history of a Karachi kitchen, from partition era recipes to Burns Road bun kababs.
-</td>
-<td width="50%" align="center" valign="middle">
-<a href="https://hamzaharoon.vercel.app/#work"><b>&#9656; Fly through all my work in 3D</b></a><br>
-<sub>hamzaharoon.vercel.app</sub>
-</td>
+<td align="center" width="25%"><a href="https://campuscoin-sable.vercel.app/"><img src="assets/logo-campuscoin.png" width="150" alt="Campus Coin"/></a><br><sub><b>Campus Coin</b></sub></td>
+<td align="center" width="25%"><a href="https://care-pk.infinityfreeapp.com/"><img src="assets/logo-care.png" width="150" alt="CARE Group"/></a><br><sub><b>CARE Group</b></sub></td>
+<td align="center" width="25%"><a href="https://zaikaekarachi.vercel.app/"><img src="assets/logo-zaika.png" width="150" alt="Zaika-e-Karachi"/></a><br><sub><b>Zaika-e-Karachi</b></sub></td>
+<td align="center" width="25%"><a href="https://hamzaharoon.vercel.app/#work"><b>&#9656; Fly through<br>all my work<br>in 3D</b></a></td>
 </tr>
 </table>
 
