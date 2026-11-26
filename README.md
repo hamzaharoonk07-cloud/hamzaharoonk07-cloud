@@ -29,8 +29,8 @@ Freelance client sites and apps on Fiverr, my own live store ShopXtra, and Wear 
 <img src="assets/h-stack.svg" width="100%"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres,php,js,ts&theme=dark&perline=10"/><br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,threejs,vite,kotlin,androidstudio,git,vercel&theme=dark&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres,php,wordpress,js,ts&theme=dark&perline=11"/><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,threejs,vite,flutter,kotlin,androidstudio,git,vercel&theme=dark&perline=11"/>
 </p>
 
 <img src="assets/h-work.svg" width="100%"/>
