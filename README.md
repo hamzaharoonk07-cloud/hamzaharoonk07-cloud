@@ -1,4 +1,4 @@
-<a href="https://hamzaharoon.vercel.app"><img src="assets/banner.svg" width="100%" alt="Hamza Haroon, Website and App Developer, Karachi"/></a>
+<a href="https://hamzaharoon.vercel.app"><img src="assets/banner-v2.svg" width="100%" alt="Hamza Haroon, Website and App Developer, Karachi"/></a>
 
 <p align="center">
   <a href="https://hamzaharoon.vercel.app"><img src="https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-0d2668?style=for-the-badge&logo=vercel&logoColor=white&labelColor=061433"/></a>
